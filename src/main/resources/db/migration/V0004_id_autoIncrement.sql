@@ -1,0 +1,2 @@
+USE cinematicdatabase;
+ALTER TABLE movies MODIFY id INT AUTO_INCREMENT PRIMARY KEY;
